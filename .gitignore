@@ -1,0 +1,22 @@
+# Proteus backup files
+Project Backups/
+*.workspace
+*~
+*.bak
+
+# Altium Designer cache/logs
+Project Logs for*/
+Project Outputs for*/
+__Previews/
+History/
+*.SchDocPreview
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
